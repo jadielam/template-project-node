@@ -1,0 +1,29 @@
+{
+  "name": "template-project-node",
+  "version": "0.0.1",
+  "description": "Example node application",
+  "scripts": {
+    "start": "node src/api-server/server.js"
+  },
+  "author": "Jadiel de Armas",
+  "license": "Copyright Jadiel de Armas. All rights reserved.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jadielam/financial-manager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jadielam/financial-manager/issues"
+  },
+  "dependencies": {
+    "lodash": "~3.9.3",
+    "restify": "~3.0.3",
+    "deasync": "~0.1.4",
+    "lusca": "~1.1.1",
+    "restify-cookies": "^0.1.1",
+    "mongodb": ">0.0.0"
+  },
+  "maintainers": {
+    "name": "Jadiel de Armas",
+    "email": "jadielam@gmail.com"
+  }
+}
