@@ -4,7 +4,7 @@
 
 var restify = require('restify');
 var config = require('../../core/config');
-var financialManager = require('./financial-manager.actions.js');
+var financialManager = require('./sample.actions.js');
 
 module.exports = function initRoutes(server) {
     var app = server;

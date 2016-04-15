@@ -13,7 +13,7 @@ module.exports = {
         name: 'Financial Manager'
     },
 
-    basePath: '/financial-manager/api/v1',
+    basePath: '/actions/api/v1',
 
     CORS: {
 
